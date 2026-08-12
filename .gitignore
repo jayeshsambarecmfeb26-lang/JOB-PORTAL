@@ -1,0 +1,28 @@
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java / Spring Boot
+target/
+*.class
+
+# Node / React
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
